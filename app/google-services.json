@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883442926522",
+    "project_id": "tugasakhir-e74f2",
+    "storage_bucket": "tugasakhir-e74f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883442926522:android:129703350b2d7ae3cfd383",
+        "android_client_info": {
+          "package_name": "com.example.projekakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883442926522-picpromn44i2rr0mjoh53bm4nikmhr1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8TDmx6vxqVtB3WT-5g8_Utj8I9M4jS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883442926522-picpromn44i2rr0mjoh53bm4nikmhr1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
